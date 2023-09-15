@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://sagemaker-eu-north-1-581114810026/DEMO-sagemaker-experiments-dvc
