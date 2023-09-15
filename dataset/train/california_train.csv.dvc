@@ -1,0 +1,4 @@
+outs:
+- md5: 6d043946e6074b0b38112591f9a03d17
+  size: 1528553
+  path: california_train.csv
