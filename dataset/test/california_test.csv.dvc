@@ -1,0 +1,4 @@
+outs:
+- md5: a8081b64904d8290041b7c4fc384fa68
+  size: 76732
+  path: california_test.csv
