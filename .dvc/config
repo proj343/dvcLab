@@ -1,4 +1,9 @@
 [core]
     remote = storage
+    analytics = false
+[cache]
+    s3 = s3cache
 ['remote "storage"']
     url = s3://sagemaker-eu-north-1-581114810026/DEMO-sagemaker-experiments-dvc
+['remote "s3cache"']
+    url = s3://sagemaker-eu-north-1-581114810026/DEMO-sagemaker-experiments-dvc/cache
